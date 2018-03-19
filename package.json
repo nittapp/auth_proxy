@@ -1,0 +1,11 @@
+{
+  "name": "nittapp_auth_proxy",
+  "version": "1.0.0",
+  "description": "Auth proxy for NITT App - Validates credentials against webmail/octa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parth Thakkar",
+  "license": "ISC"
+}
